@@ -890,7 +890,8 @@ ul {
   margin-top: 4px; }
 
 .time-check-widget tr {
-  display: inline; }
+  display: inline; 
+  margin-right: 15px; }
   .time-check-widget tr input[type="number"] {
     width: 5em; }
 
